@@ -8,4 +8,4 @@ All general and common used functions are stored in this library
 3. done
 
 ***
-# BETA ONLY
+# BETA ONLY, so there may be bugs. Please test before push it in production.
