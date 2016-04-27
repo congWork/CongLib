@@ -53,7 +53,7 @@ namespace CongLib.Concrete
                     LogType = logType.ToString(),
                     Message = message
                 };
-
+             
                 string jsonLog = JsonConvert.SerializeObject(logModel);
 
                 sw = new StreamWriter(_path, true);
